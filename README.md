@@ -5,13 +5,18 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 ![Proje Resmi](https://i.ibb.co/L0kCbrP/Screenshot-13.png)
 
+
 ## Installation
 
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+  
 
-```bash
-git clone https://github.com/ceydavardar/kodluyoruzilkrepo.git
-```
+Öncelikle projeyi clonelayın (https://github.com/ceydavardar/kodluyoruzilkrepo.git)
+
+  
+
+` git clone https://github.com/ceydavardar/kodluyoruzilkrepo.git `
+
+  
 
 ## Usage
 
